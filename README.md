@@ -1,86 +1,154 @@
-👋 Hi, I’m Golu Kumar Yadav
-🚀 AI | ML | Android | NLP | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Golu Kumar Yadav</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Android Developer | Full-Stack Developer</h3>
 
-A passionate Computer Science student who loves solving real-world problems using Machine Learning, Android development, and intelligent systems.
+<p align="center">
+Passionate Computer Science student focused on building intelligent and scalable applications using AI, Machine Learning, Android, and Full-Stack technologies.
+</p>
 
-🔍 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Enthusiast;Android+Developer;Full+Stack+Developer;DSA+%26+Competitive+Programming;Always+Learning+New+Technologies+🚀" />
+</p>
 
-👀 Interests: AI/ML, NLP, Knowledge Graphs, Android Development, System Design
+---
 
-🌱 Currently Learning: Medical NLP, Deep Learning, Neo4j Graphs, Jetpack Components, APIs
+# 👨‍💻 About Me
 
-💞️ Looking to Collaborate On: AI research, Android apps, ML/NLP tools, open-source projects
+- 🎓 B.Tech CSE Student at **Galgotias University**
+- 💡 Passionate about **Artificial Intelligence, Machine Learning, Android Development & NLP**
+- 🌱 Currently learning **Deep Learning, Medical NLP, APIs & System Design**
+- 🚀 Love building real-world projects and solving coding challenges
+- 🤝 Open to internships, collaborations, and open-source contributions
+- ⚡ Fun Fact: I debug faster at **2 AM** than at **2 PM** 😄
 
-📫 Reach Me At:
-📩 golukumyadav629919@gmail.com
+---
 
-🔗 LinkedIn: (Add your link if you want — I can format it)
+# 🛠️ Tech Stack
 
-😄 Pronouns: He / Him
+## 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,c,mysql" />
+</p>
 
-⚡ Fun Fact: I debug better at 2 AM than at 2 PM 😄
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-🛠️ Tech Stack
-Languages
+- Scikit-Learn  
+- NLP  
+- Pandas  
+- NumPy  
+- HuggingFace  
 
-Python Java Kotlin C SQL HTML CSS JavaScript
+---
 
-Machine Learning / AI
+# 📱 Android Development
 
-TensorFlow Scikit-Learn NLP HuggingFace PyTorch Pandas NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,kotlin" />
+</p>
 
-Databases
+- Jetpack Components  
+- Retrofit  
+- Room Database  
+- LiveData  
+- XML UI Design  
 
-MongoDB MySQL Neo4j (Graph DB)
+---
 
-Android Development
+# 🗄️ Databases & Tools
 
-Kotlin XML Jetpack Room DB Retrofit LiveData Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux,vscode,postman" />
+</p>
 
-Tools & Platforms
+- Neo4j Graph Database  
+- Jupyter Notebook  
 
-Git GitHub Docker Postman Linux VS Code Jupyter
+---
 
-📊 GitHub Stats
+# 🚀 Featured Projects
 
-(These work automatically once you paste into README)
+## 🔹 HealthIntellect – Medical NLP Analytics Suite
+🧠 AI-powered healthcare analytics system for:
+- Medical text analysis
+- Disease prediction
+- NLP-based intelligent processing
+- Knowledge graph integration
 
-![Golu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golu629919&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Golu629919&layout=compact&theme=react)
+---
 
-🌟 Highlighted Projects
-🔹 HealthIntellect – Medical NLP Analytics Suite
+## 🔹 Android Internship Projects
+📱 Developed Android apps during **Google x EduSkills Internship**
+- Firebase Authentication
+- API Integration
+- RecyclerView & Fragments
+- Modern Android UI
 
-AI-driven system for medical text analysis, knowledge graphs, and disease prediction.
+---
 
-🔹 Android Virtual Internship Projects
+## 🔹 AI/ML Projects
+🤖 Worked on:
+- Classification models
+- Prediction systems
+- NLP applications
+- Pattern recognition projects
 
-Apps created under Google x EduSkills internship (RecyclerView, Fragments, Firebase, APIs).
+---
 
-🔹 AI/ML Projects
+# 📊 GitHub Stats
 
-NLP models, classification systems, pattern recognition, and healthcare prediction systems.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Golu629919&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golu629919&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-(I can also write 1–line descriptions for each if you provide repo links.)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Golu629919&theme=tokyonight" />
+</p>
 
-🏆 Badges
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Android](https://img.shields.io/badge/Android-Kotlin-green)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-red)
-![NLP](https://img.shields.io/badge/NLP-HuggingFace-yellow)
-![Neo4j](https://img.shields.io/badge/GraphDB-Neo4j-blue)
-![GitHub](https://img.shields.io/badge/Open%20Source-Love-black)
+---
 
-🎯 Current Focus
+# 🏆 Achievements & Interests
 
-Building scalable AI-based healthcare systems
+- ✅ 9 CGPA in First Year B.Tech
+- ✅ Multiple Virtual Internships Completed
+- ✅ Strong Interest in AI & Healthcare Systems
+- ✅ Active Learner in DSA & Competitive Programming
 
-Working on advanced Android app development
+---
 
-Improving DSA & competitive programming skills
+# 🎯 Current Focus
 
-Publishing ML/NLP projects on GitHub
+🚀 Building scalable AI-based healthcare systems  
+📱 Improving advanced Android app development skills  
+🧩 Practicing DSA & Competitive Programming daily  
+🌟 Publishing impactful projects on GitHub  
 
-❤️ Thanks for Visiting!
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Golu629919" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:golukumyadav629919@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories!
+</p>
 
 If you like my work, don’t forget to ⭐ my repositories
